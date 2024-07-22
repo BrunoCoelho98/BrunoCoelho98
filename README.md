@@ -1,4 +1,4 @@
-### Hi, I'm Bruno Coelho 🦀
+### Hi, I'm Bruno Coelho 
 
 - 🖥️ I've been coding for over 2 years
 - :blue_book: Currently studing Computer Engineering
