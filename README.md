@@ -2,5 +2,5 @@
 
 - 🖥️ I've been coding for over 2 years
 - :blue_book: Currently studing Computer Engineering
-- :zap: Check out my projects
+- :zap: Currently looking for a backend position, ideally writing C# or Python.
 
