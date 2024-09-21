@@ -1,6 +1,6 @@
 ### Hi, I'm Bruno Coelho 
 
-- 🖥️ I've been coding for over 2 years
+- 🖥️ I've been coding for about 3 years
 - :blue_book: Currently studing Computer Engineering
 
 
